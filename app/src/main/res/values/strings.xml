@@ -9,4 +9,6 @@
     <string name="not_found">Информация об улице не найдена</string>
     <string name="mutabor">Му́табор (лат. mutabor «изменюсь, превращусь»)</string>
     <string name="must_have">Обязательно к посещению</string>
+    <string name="maps">maps</string>
+    <string name="markers">markers</string>
 </resources>
