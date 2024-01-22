@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Maps</string>
+    <string name="permission">Для корректной работы нужен доступ к геолокации</string>
+    <string name="dialog_rationale_title">Доступ к геолокации</string>
+    <string name="dialog_rationale_give_access">Предоставить доступ</string>
+    <string name="dialog_rationale_decline">Не надо</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_found">Информация об улице не найдена</string>
+    <string name="mutabor">Му́табор (лат. mutabor «изменюсь, превращусь»)</string>
+    <string name="must_have">Обязательно к посещению</string>
+    <string name="maps">maps</string>
+    <string name="markers">markers</string>
 </resources>
